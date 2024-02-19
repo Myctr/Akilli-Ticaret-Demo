@@ -36,7 +36,7 @@ yarn run ios
 - Login
   ![HomeScreen](screenshots/login.png)
 
-#Technologies
+# Technologies
 
 - React Native
 - Formik
@@ -45,6 +45,6 @@ yarn run ios
 - Async Storage
 - Navigation
 
-#Contributing
+# Contributing
 
 If you would like to contribute, please open an issue first and submit a pull request to discuss the changes.
