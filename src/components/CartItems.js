@@ -48,7 +48,7 @@ const CartItems = ({detail, addItemToCart}) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Favorilerim</Text>
+      <Text style={styles.title}>Sepet</Text>
 
       <View style={styles.items}>
         {detail.map(item => {

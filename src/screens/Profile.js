@@ -28,8 +28,8 @@ const Profile = () => {
 
   const passwordRef = useRef();
   const initialValues = {
-    email: 'destek@akilliticaret.com',
-    password: 'at253545',
+    email: '',
+    password: '',
   };
   const validationSchema = Yup.object().shape({
     email: Yup.string()
