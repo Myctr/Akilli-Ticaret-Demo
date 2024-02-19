@@ -34,7 +34,7 @@ yarn run ios
 - Cart
   ![HomeScreen](screenshots/cart.png)
 - Login
-  ![HomeScreen](screenshots/logşn.png)
+  ![HomeScreen](screenshots/login.png)
 
 #Technologies
 
