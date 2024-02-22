@@ -27,14 +27,12 @@ yarn run ios
 
 # Features
 
-- Home Screen
-  ![HomeScreen](screenshots/home.png)
-- Categories
-  ![HomeScreen](screenshots/categories.png)
-- Cart
-  ![HomeScreen](screenshots/cart.png)
-- Login
-  ![HomeScreen](screenshots/login.png)
+<div align="center">
+  <image width=350 src="screenshots/home.png" />
+  <image width=350 src="screenshots/categories.png" />
+  <image width=350 src="screenshots/cart.png" />
+  <image width=350 src="screenshots/login.png" />
+</div>
 
 # Technologies
 
@@ -45,6 +43,3 @@ yarn run ios
 - Async Storage
 - Navigation
 
-# Contributing
-
-If you would like to contribute, please open an issue first and submit a pull request to discuss the changes.
