@@ -25,7 +25,7 @@ yarn run android
 yarn run ios
 ```
 
-# Features
+# Screenshots
 
 <div align="center">
   <image width=350 src="screenshots/home.png" />
